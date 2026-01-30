@@ -21,8 +21,8 @@ Before running the script, ensure you have:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/python-safe-bulk-mailer.git](https://github.com/yourusername/python-safe-bulk-mailer.git)
-    cd python-safe-bulk-mailer
+    git clone https://github.com/Tetherium/automated-email-sender.git
+    cd automated-email-sender
     ```
 
 2.  **Install dependencies:**
@@ -53,3 +53,4 @@ This tool is intended for professional communication and legitimate business out
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
+
